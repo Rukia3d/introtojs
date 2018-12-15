@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+
+button {
+  width: 100px;
+  height: 50px;
+
+}
+
+#appearingP{
+  display: none;
+}
